@@ -26,7 +26,7 @@
 - [ ] Electron.
 - [ ] Lives.
 - [ ] Freelancer — Do Zero ao Profissional.
-- [ ] [Font-end — Do Zero ao Profissional.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ir Para o Curso")
+- [ ] [Font-end — Do Zero ao Profissional.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ver os Módulos do Curso")
 - [ ] React.js Native — Do Zero ao Profissional.
 - [ ] PHP — Do Zero ao Profissional.
 - [ ] WordPress — Do Zero ao Profissional.
