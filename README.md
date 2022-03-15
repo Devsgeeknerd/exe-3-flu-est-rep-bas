@@ -3,7 +3,7 @@
 
 ***Conteúdo:***
 
-<!-- - [ ] Orientação. -->
+<!-- - [ ] ORIENTAÇÃO. -->
 <!-- - [ ] HTML5 e CSS3. -->
 <!-- - [ ] JavaScript. -->
 <!-- - [ ] Git e GitHub. -->
