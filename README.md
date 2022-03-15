@@ -6,7 +6,7 @@
 <!-- * [ ] ORIENTAÇÃO. -->
 <!-- * [ ] LIVES. -->
 <!-- * [ ] HTML 5 & CSS 3. -->
-* [ ] JAVASCRIPT.
+<!-- * [ ] JAVASCRIPT. -->
 * [ ] GIT & GITHUB.
 * [ ] BANCOS DE DADOS.
 * [ ] PHP.
