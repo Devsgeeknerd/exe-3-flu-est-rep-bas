@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # CURSO DE FULL STACK
 
-***Módulos:***
+***Conteúdo:***
 
 <!-- - [ ] Orientação. -->
 <!-- - [ ] HTML5 e CSS3. -->
