@@ -11,6 +11,7 @@
 * [ ] BANCOS DE DADOS.
 * [ ] PHP.
 * [ ] LARAVEL.
+* [ ] TYPESCRIPT.
 * [ ] [FRONT-END — DO ZERO AO PROFISSIONAL.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ver o Conteúdo do Curso")
 
 <!-- TABLE OF CONTENTS -->
