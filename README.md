@@ -7,7 +7,7 @@
 <!-- * [ ] LIVES. -->
 <!-- * [ ] HTML 5 & CSS 3. -->
 <!-- * [ ] JAVASCRIPT. -->
-* [ ] GIT & GITHUB.
+<!-- * [ ] GIT & GITHUB. -->
 * [ ] BANCOS DE DADOS.
 * [ ] PHP.
 * [ ] LARAVEL.
