@@ -17,6 +17,7 @@
 * [ ] REACT.JS.
 * [ ] REACT.JS NATIVE.
 * [ ] VUE.JS.
+* [ ] ANGULAR 9.
 * [ ] [FRONT-END — DO ZERO AO PROFISSIONAL.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ver o Conteúdo do Curso")
 
 <!-- TABLE OF CONTENTS -->
