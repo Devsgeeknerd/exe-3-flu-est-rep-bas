@@ -22,6 +22,7 @@
 * [ ] BOOTSTRAP 4.
 * [ ] DOCKER.
 * [ ] FIREBASE.
+* [ ] SASS.
 * [ ] [FRONT-END — DO ZERO AO PROFISSIONAL.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ver o Conteúdo do Curso")
 
 <!-- TABLE OF CONTENTS -->
