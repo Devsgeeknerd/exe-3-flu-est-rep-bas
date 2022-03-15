@@ -4,7 +4,7 @@
 ***Conteúdo:***
 
 <!-- * [ ] ORIENTAÇÃO. -->
-* [ ] LIVES.
+<!-- * [ ] LIVES. -->
 * [ ] HTML 5 & CSS 3.
 * [ ] JAVASCRIPT.
 * [ ] GIT & GITHUB.
