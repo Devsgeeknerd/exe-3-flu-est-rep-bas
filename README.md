@@ -8,7 +8,7 @@
 <!-- * [ ] HTML 5 & CSS 3. -->
 <!-- * [ ] JAVASCRIPT. -->
 <!-- * [ ] GIT & GITHUB. -->
-* [ ] BANCOS DE DADOS.
+<!-- * [ ] BANCOS DE DADOS. -->
 * [ ] PHP.
 * [ ] LARAVEL.
 * [ ] TYPESCRIPT.
