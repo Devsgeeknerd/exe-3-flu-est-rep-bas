@@ -15,7 +15,7 @@
 <!-- * [ ] NODE.JS. -->
 <!-- * [ ] ADONIS.JS. -->
 <!-- * [ ] REACT.JS. -->
-* [ ] REACT.JS NATIVE.
+<!-- * [ ] REACT.JS NATIVE. -->
 * [ ] VUE.JS.
 * [ ] ANGULAR 9.
 * [ ] FLUTTER.
