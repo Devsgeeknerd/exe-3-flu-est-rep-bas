@@ -13,7 +13,7 @@
 <!-- * [ ] LARAVEL. -->
 <!-- * [ ] TYPESCRIPT. -->
 <!-- * [ ] NODE.JS. -->
-* [ ] ADONIS.JS.
+<!-- * [ ] ADONIS.JS. -->
 * [ ] REACT.JS.
 * [ ] REACT.JS NATIVE.
 * [ ] VUE.JS.
