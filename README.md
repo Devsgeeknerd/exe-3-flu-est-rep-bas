@@ -9,7 +9,7 @@
 <!-- * [ ] JAVASCRIPT. -->
 <!-- * [ ] GIT & GITHUB. -->
 <!-- * [ ] BANCOS DE DADOS. -->
-* [ ] PHP.
+<!-- * [ ] PHP. -->
 * [ ] LARAVEL.
 * [ ] TYPESCRIPT.
 * [ ] NODE.JS.
