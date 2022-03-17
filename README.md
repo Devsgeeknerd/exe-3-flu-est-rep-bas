@@ -11,7 +11,7 @@
 <!-- * [ ] BANCOS DE DADOS. -->
 <!-- * [ ] PHP. -->
 <!-- * [ ] LARAVEL. -->
-* [ ] TYPESCRIPT.
+<!-- * [ ] TYPESCRIPT. -->
 * [ ] NODE.JS.
 * [ ] ADONIS.JS.
 * [ ] REACT.JS.
