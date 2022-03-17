@@ -14,7 +14,7 @@
 <!-- * [ ] TYPESCRIPT. -->
 <!-- * [ ] NODE.JS. -->
 <!-- * [ ] ADONIS.JS. -->
-* [ ] REACT.JS.
+<!-- * [ ] REACT.JS. -->
 * [ ] REACT.JS NATIVE.
 * [ ] VUE.JS.
 * [ ] ANGULAR 9.
