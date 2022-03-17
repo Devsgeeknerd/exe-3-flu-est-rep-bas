@@ -10,7 +10,7 @@
 <!-- * [ ] GIT & GITHUB. -->
 <!-- * [ ] BANCOS DE DADOS. -->
 <!-- * [ ] PHP. -->
-* [ ] LARAVEL.
+<!-- * [ ] LARAVEL. -->
 * [ ] TYPESCRIPT.
 * [ ] NODE.JS.
 * [ ] ADONIS.JS.
