@@ -12,7 +12,7 @@
 <!-- * [ ] PHP. -->
 <!-- * [ ] LARAVEL. -->
 <!-- * [ ] TYPESCRIPT. -->
-* [ ] NODE.JS.
+<!-- * [ ] NODE.JS. -->
 * [ ] ADONIS.JS.
 * [ ] REACT.JS.
 * [ ] REACT.JS NATIVE.
