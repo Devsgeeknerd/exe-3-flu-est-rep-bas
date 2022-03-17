@@ -19,7 +19,7 @@
 <!-- * [ ] VUE.JS. -->
 <!-- * [ ] ANGULAR 9. -->
 * [ ] FLUTTER.
-* [ ] BOOTSTRAP 4.
+<!-- * [ ] BOOTSTRAP 4. -->
 * [ ] DOCKER.
 * [ ] FIREBASE.
 * [ ] SASS.
