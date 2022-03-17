@@ -18,7 +18,7 @@
 <!-- * [ ] REACT.JS NATIVE. -->
 <!-- * [ ] VUE.JS. -->
 <!-- * [ ] ANGULAR 9. -->
-* [ ] FLUTTER.
+<!-- * [ ] FLUTTER. -->
 <!-- * [ ] BOOTSTRAP 4. -->
 * [ ] DOCKER.
 * [ ] FIREBASE.
