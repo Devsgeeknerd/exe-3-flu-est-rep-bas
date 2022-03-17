@@ -16,7 +16,7 @@
 <!-- * [ ] ADONIS.JS. -->
 <!-- * [ ] REACT.JS. -->
 <!-- * [ ] REACT.JS NATIVE. -->
-* [ ] VUE.JS.
+<!-- * [ ] VUE.JS. -->
 * [ ] ANGULAR 9.
 * [ ] FLUTTER.
 * [ ] BOOTSTRAP 4.
