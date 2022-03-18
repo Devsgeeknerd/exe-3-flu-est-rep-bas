@@ -21,7 +21,7 @@
 <!-- * [ ] FLUTTER. -->
 <!-- * [ ] BOOTSTRAP 4. -->
 <!-- * [ ] DOCKER. -->
-* [ ] FIREBASE.
+<!-- * [ ] FIREBASE. -->
 * [ ] SASS.
 * [ ] GRAPHQL.
 * [ ] ADOBE XD.
