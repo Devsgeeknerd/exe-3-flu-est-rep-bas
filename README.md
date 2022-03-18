@@ -22,7 +22,7 @@
 <!-- * [ ] BOOTSTRAP 4. -->
 <!-- * [ ] DOCKER. -->
 <!-- * [ ] FIREBASE. -->
-* [ ] SASS.
+<!-- * [ ] SASS. -->
 * [ ] GRAPHQL.
 * [ ] ADOBE XD.
 * [ ] ELECTRON.
