@@ -28,7 +28,7 @@
 <!-- * [ ] ELECTRON. -->
 * [ ] [FRONT-END — DO ZERO AO PROFISSIONAL.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ver o Conteúdo do Curso")
 <!-- * [ ] REACT.JS NATIVE — DO ZERO AO PROFISSIONAL. -->
-* [ ] PHP — DO ZERO AO PROFISSIONAL.
+<!-- * [ ] PHP — DO ZERO AO PROFISSIONAL. -->
 * [ ] WORDPRESS — DO ZERO AO PROFISSIONAL.
 * [ ] FREELANCER — DO ZERO AO PROFISSIONAL.
 
