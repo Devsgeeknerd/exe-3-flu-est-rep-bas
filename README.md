@@ -20,7 +20,7 @@
 <!-- * [ ] ANGULAR 9. -->
 <!-- * [ ] FLUTTER. -->
 <!-- * [ ] BOOTSTRAP 4. -->
-* [ ] DOCKER.
+<!-- * [ ] DOCKER. -->
 * [ ] FIREBASE.
 * [ ] SASS.
 * [ ] GRAPHQL.
