@@ -15,6 +15,7 @@
 <!-- * [ ] NODE.JS. -->
 <!-- * [ ] ADONIS.JS. -->
 <!-- * [ ] REACT.JS. -->
+<!-- * [ ] NEXT.JS -->
 <!-- * [ ] REACT.JS NATIVE. -->
 <!-- * [ ] VUE.JS. -->
 <!-- * [ ] ANGULAR 9. -->
