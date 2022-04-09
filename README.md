@@ -30,7 +30,7 @@
 <!-- * [ ] [FRONT-END — DO ZERO AO PROFISSIONAL.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ver o Conteúdo do Curso") -->
 <!-- * [ ] REACT.JS NATIVE — DO ZERO AO PROFISSIONAL. -->
 <!-- * [ ] PHP — DO ZERO AO PROFISSIONAL. -->
-* [ ] WORDPRESS — DO ZERO AO PROFISSIONAL.
+* [ ] [WordPress — Do Zero ao Profissional.](https://github.com/Devsgeeknerd/wordpress-zp-fs "Ver detalhes")
 <!-- * [ ] FREELANCER — DO ZERO AO PROFISSIONAL. -->
 
 <!-- TABLE OF CONTENTS -->
