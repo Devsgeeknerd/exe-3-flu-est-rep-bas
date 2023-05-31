@@ -1,96 +1,29 @@
-<!-- TITLE -->
-# CURSO DE FULL STACK
+<!-- Título -->
+# Exercício 3 — Fluxograma
 
-***Conteúdo:***
+***Conteúdo do Exercício:***
 
-<!-- * [ ] ORIENTAÇÃO. -->
-<!-- * [ ] LIVES. -->
-<!-- * [ ] HTML 5 & CSS 3. -->
-<!-- * [ ] JAVASCRIPT. -->
-<!-- * [ ] GIT & GITHUB. -->
-<!-- * [ ] BANCOS DE DADOS. -->
-<!-- * [ ] PHP. -->
-<!-- * [ ] LARAVEL. -->
-<!-- * [ ] TYPESCRIPT. -->
-<!-- * [ ] NODE.JS. -->
-<!-- * [ ] ADONIS.JS. -->
-<!-- * [ ] REACT.JS. -->
-<!-- * [ ] NEXT.JS -->
-<!-- * [ ] REACT.JS NATIVE. -->
-<!-- * [ ] VUE.JS. -->
-<!-- * [ ] ANGULAR 9. -->
-<!-- * [ ] FLUTTER. -->
-<!-- * [ ] BOOTSTRAP 4. -->
-<!-- * [ ] DOCKER. -->
-<!-- * [ ] FIREBASE. -->
-<!-- * [ ] SASS. -->
-<!-- * [ ] GRAPHQL. -->
-<!-- * [ ] ADOBE XD. -->
-<!-- * [ ] ELECTRON. -->
-<!-- * [ ] [FRONT-END — DO ZERO AO PROFISSIONAL.](https://github.com/Devsgeeknerd/front-end-zp-full-stack "Ver o Conteúdo do Curso") -->
-<!-- * [ ] REACT.JS NATIVE — DO ZERO AO PROFISSIONAL. -->
-<!-- * [ ] PHP — DO ZERO AO PROFISSIONAL. -->
-* [ ] [WordPress — Do Zero ao Profissional.](https://github.com/Devsgeeknerd/wordpress-zp-fs "Ver detalhes")
-<!-- * [ ] FREELANCER — DO ZERO AO PROFISSIONAL. -->
+Faça um programa que peça ao usuário um `número entre 12 e 20`.
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+Se a pessoa digitar um número diferente, mostrar a mensagem `entrada invalida` e solicitar o numero novamente.
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+Se digitar correto mostrar o número digitado.
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+[Solução.](main.c)
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcurso-de-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fexe-3-flu-est-rep-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/curso-de-full-stack?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/exe-3-flu-est-rep-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/curso-de-full-stack?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-3-flu-est-rep-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/curso-de-full-stack?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-3-flu-est-rep-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/curso-de-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/exe-3-flu-est-rep-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/curso-de-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/exe-3-flu-est-rep-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
